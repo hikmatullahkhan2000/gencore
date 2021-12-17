@@ -1,0 +1,4 @@
+<script>
+    @stack('scripts')
+</script>
+
